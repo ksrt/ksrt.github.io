@@ -6382,7 +6382,8 @@ h3 {
     max-height: 600px; }
 
 .selling {
-  background-color: #dfeeff;
+  background-color: #2660a1;
+  color: #fff;
   padding: 20px; }
   @media print, screen and (min-width: 64em) {
     .selling {
@@ -6390,6 +6391,9 @@ h3 {
   .selling ul {
     list-style: none; }
   .selling .logo-sp-koti a {
+    display: inline-block;
+    margin: 0 0 30px; }
+  .selling .logo-habita a {
     display: inline-block;
     margin: 0 0 30px; }
 
